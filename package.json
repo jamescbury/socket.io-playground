@@ -14,7 +14,8 @@
   },
   "homepage": "https://github.com/jamescbury/socket.io-playground#readme",
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.16.3",
+    "onoff": "^2.0.0",
     "socket.io": "^2.0.4"
   }
 }
